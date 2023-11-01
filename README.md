@@ -4,7 +4,7 @@ Este projeto é um simulado com perguntas sobre VueJs, de forma aletória são s
 
 ## Demonstração
 
-![Vue Quiz](/assets/vue-quiz.png)
+![Vue Quiz](/src/assets/vue-quiz.png)
 
 ## Rodando localmente
 
